@@ -35,3 +35,7 @@ By completing this project, you will:
 - Translate model outputs into a format suitable for competition evaluation.
 
 ---
+
+## License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
