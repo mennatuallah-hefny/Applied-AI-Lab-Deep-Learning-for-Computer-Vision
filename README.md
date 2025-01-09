@@ -43,6 +43,6 @@ Upon completing the lab, I will have developed:
 
 ## Citation  
 
-This README references content and learning objectives from the **Applied AI Lab** by [WorldQuant University](https://www.wqu.edu/ai-lab-computer-vision?utm_campaign=AI%20Lab%20Launch&utm_source=piazza).  
+This README references content and learning objectives from the **Applied AI Lab: Deep Learning for Computer Vision** by [WorldQuant University](https://www.wqu.edu/ai-lab-computer-vision?utm_campaign=AI%20Lab%20Launch&utm_source=piazza).  
 
 ---  
